@@ -1,0 +1,7 @@
+C:\Users\profa\Desktop\KBTU\1-2\PP2\week 1\Task 2\obj\Debug\ConsoleApp10.csprojAssemblyReference.cache
+C:\Users\profa\Desktop\KBTU\1-2\PP2\week 1\Task 2\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\profa\Desktop\KBTU\1-2\PP2\week 1\Task 2\bin\Debug\ConsoleApp10.exe.config
+C:\Users\profa\Desktop\KBTU\1-2\PP2\week 1\Task 2\bin\Debug\ConsoleApp10.exe
+C:\Users\profa\Desktop\KBTU\1-2\PP2\week 1\Task 2\bin\Debug\ConsoleApp10.pdb
+C:\Users\profa\Desktop\KBTU\1-2\PP2\week 1\Task 2\obj\Debug\ConsoleApp10.exe
+C:\Users\profa\Desktop\KBTU\1-2\PP2\week 1\Task 2\obj\Debug\ConsoleApp10.pdb
